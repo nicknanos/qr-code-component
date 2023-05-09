@@ -29,10 +29,11 @@ body {
     justify-content: center;
     align-items: center;
     gap: 1rem;
-    padding: 1.3rem 1rem 5rem 1rem;
+    padding: 1.3rem 1rem 3rem 1rem;
     background-color: var(--White);
     border-radius: 20px;
     text-align: center;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
 }
 
 .container img {
